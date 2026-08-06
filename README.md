@@ -1,48 +1,77 @@
-<h1 align="center">Olá, eu sou a Sabrina 👋</h1>
+<h1 data-importer="text" align="left">👋 Olá, eu sou a Sabrina Clemente</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedora+Web;Java+%7C+HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" />
-</p>
+###
 
----
+<h2 data-importer="text" align="left">🎓  Desenvolvedora em formação | 💻Sistemas para internet pela Fatec | 🚀Buscando vagas nível júnior ou trainee</h2>
 
-### 🚀 Sobre mim
+###
 
-Sou desenvolvedora web, apaixonada por criar soluções e sempre em busca de aprender novas tecnologias.
+<h3 data-importer="text" align="left">🛠️Tecnologias e ferramentas:</h3>
 
----
+###
 
-### 🛠️ Tecnologias
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+###
 
----
+<h3 data-importer="text" align="left">📍Projeto destaque:</h3>
 
-### 📊 Estatísticas do GitHub
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrinacls&show_icons=true&theme=default" alt="Sabrina's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinacls&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
+- **[Crud Java](https://github.com/sabrinacls/Crud-Java-Simples.git)**
+  - Arquitetura MVC
+  - Orientação a objetos
+  - Spring Validation
+  - Spring Data JPA/Hibernate
+  - Feito com H2 Database
 
----
+###
 
-### 📫 Contato
+<h3 data-importer="text" align="left">📱Fale comigo pelas minhas redes sociais:</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in//sabrina-clemente655381259" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/SEU-USUARIO-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/sabss.oo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-</p>
+</div>
 
----
+###
 
-<p align="center"><i>Obrigada pela visita! ⭐</i></p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/sabrinacls/sabrinacls/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrinacls/sabrinacls/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabrinacls/sabrinacls/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sabrinacls/sabrinacls/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
